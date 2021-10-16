@@ -4,6 +4,5 @@ from .models import *
 
 
 # Create your views here.
-@login_required
 def index(request):
     pass
